@@ -1,0 +1,7 @@
+@inproceedings{REPO154,
+    author = "Zhang, Hai and Xu, Junzhe and Jiang, Shanlin and He, Zhenan",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "28588--28597",
+    title = "{Simple Semantic-Aided Few-Shot Learning}",
+    year = "2024"
+}
